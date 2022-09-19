@@ -1,0 +1,6 @@
+#
+# Container Image UniFi
+#
+
+data/ca.pem binary
+data/keystore binary

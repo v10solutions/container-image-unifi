@@ -1,0 +1,10 @@
+#
+# Container Image UniFi
+#
+
+.nova/
+.vscode/
+*.env
+**/.DS_Store
+
+.output/

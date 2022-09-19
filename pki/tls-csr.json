@@ -1,0 +1,17 @@
+{
+	"key": {
+		"algo": "rsa",
+		"size": 4096
+	},
+	"names": [
+		{
+			"c": "ES",
+			"st": "Madrid",
+			"l": "Madrid",
+			"o": "V10 Solutions",
+			"ou": "Container Images"
+		}
+	],
+	"cn": "unifi",
+	"hosts": ["unifi"]
+}
