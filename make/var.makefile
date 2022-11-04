@@ -33,7 +33,7 @@ endif
 
 export PROJ_ID ?=
 export PROJ_NAME ?= container-image-unifi
-export PROJ_VERSION ?= 7.2.94
+export PROJ_VERSION ?= 7.2.95
 export PROJ_BUILD_NUM ?= $(shell BIN_DATE="$(BIN_DATE)" tools/build-num "$(GIT_COMMIT_TIMESTAMP)" "$(GIT_COMMIT_SHORT_SHA)")
 export PROJ_BUILD_DATE ?= $(shell $(BIN_DATE) -u -Iseconds)
 export PROJ_PLATFORM_OS ?= linux
